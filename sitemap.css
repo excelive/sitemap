@@ -33,6 +33,10 @@
   border-top:1px solid #444;
   background-color:#333;
 }
+.table-of-content .toc-header:hover {
+    background-color: #484848;
+    transition: all 0.3s;
+}
 .table-of-content .toc-header:after {
     content: '\f0fe';
     float: right;
